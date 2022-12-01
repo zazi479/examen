@@ -25,17 +25,25 @@ Al hacerlo, creará un directorio .git oculto donde irá almacenado toda la info
 
 Acabada la practica 1.
 
-#PARTE B. (2 PUNTOS). Repetir "insitu" la tarea 2.
+# PARTE B. (2 PUNTOS). Repetir "insitu" la tarea 2.
+Primero clonamos el repositorio en nuestro nuestra carpeta “Entornos”
+![](https://github.com/zazi479/examen/blob/cfc05d54651a13ea06c73aab2a403832c2fa2f8b/exa7.jpg)
 
-#PARTE C. (2 PUNTOS). Áreas de un repositorio Git.
+Entramos al directorio y comprobamos si hay commits ya realizados.
+
+
+# PARTE C. (2 PUNTOS). Áreas de un repositorio Git.
+
 
 Explica con tus palabras las 3 áreas de un proyecto git:
 
-1. Directorio de trabajo (Working directory)
-2. Área de preparación (Staging area)
-3. Repositorio local (Directorio .git)
+1. Directorio de trabajo (Working directory): es el area en donde podemos realizar cambios sin que se vea afecta nuestro codigo.
+2. Área de preparación (Staging area): es la zona en donde se guardan de forma temporal los commits que hacemos y se aplicaran al repositorio.
+3. Repositorio local (Directorio .git): Es el archivo que creamos que contiene el Readme con el que trabajamos.
+4. 
+![](https://github.com/zazi479/examen/blob/16b7903601ec42eb348c2662f174dc912275c191/exa8.jpg)
 
-![]()
+Ahora veremos el contenido del README.md
 
 ![]()
 ![]()
